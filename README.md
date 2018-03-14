@@ -13,7 +13,7 @@ This uses PYTHON 3!
 
 ## Running the tests
 
-To run the test cases, follow the uncomment/comment instructions given in the comments of the code. 
+To run the test cases, download all the txt files in this repository. Given that all the txt files and the program itself (the py file) is in the same folder, follow the uncomment/comment instructions given in the comments of the code to test the test cases.  
 
 ## Acknowledgments
 This is solely for the Apartment List Internship Coding Challege! 
